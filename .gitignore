@@ -1,0 +1,7 @@
+online_retail_II.xlsx
+*.zip
+__pycache__/
+*.pyc
+.venv/
+.streamlit/secrets.toml
+.DS_Store
